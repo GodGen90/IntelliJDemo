@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("Teste Git");
+        System.out.println("2.Test");
     }
 }
