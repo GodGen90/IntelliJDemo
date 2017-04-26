@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Teste Git");
         System.out.println("2.Test");
+        System.out.println("3.Test");
     }
 }
